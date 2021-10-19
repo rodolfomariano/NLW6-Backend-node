@@ -31,7 +31,7 @@ Third, run the project
 yarn dev-server
 ```
 
-## Routes:
+## :arrow_upper_right: Routes:
 
 <p>POST - http://localhost:3333/authenticate     -> Authenticate</p>
 <p>POST - http://localhost:3333/messages         -> Create new message</p>
