@@ -33,7 +33,7 @@ yarn dev-server
 
 ##Routes:
 
-POST - http://localhost:3333/authenticate     -> Authenticate
-POST - http://localhost:3333/messages         -> Create new message
-GET  - http://localhost:3333/messages/last3    -> List the last messages
-GET  - http://localhost:3333/profile           -> Get profile data
+<p>POST - http://localhost:3333/authenticate     -> Authenticate</p>
+<p>POST - http://localhost:3333/messages         -> Create new message</p>
+<p>GET  - http://localhost:3333/messages/last3    -> List the last messages</p>
+<p>GET  - http://localhost:3333/profile           -> Get profile data</p>
